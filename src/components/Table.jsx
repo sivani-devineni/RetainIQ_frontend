@@ -27,11 +27,11 @@ const initialStates = [
 const initialVariants = [{ id: "1", name: "Variant 1", description: "" }];
 const images = [
   { src: "whiteFolar.jpeg", description: "printed frock" },
-  { src: "greenFolar.jpeg", description: "10th Grade Marksheet" },
-  { src: "lineFolar.jpeg", description: "Photo of Santosh" },
-  { src: "pinkFolar.jpeg", description: "Duplicate 10th Grade Certificate" },
-  { src: "striped.jpeg", description: "Duplicate 10th Grade Marksheet" },
-  { src: "flowerPrint.jpeg", description: "Duplicate Photo of Santosh" },
+  { src: "greenFolar.jpeg", description: "Green frock" },
+  { src: "lineFolar.jpeg", description: "LineFolar frock" },
+  { src: "pinkFolar.jpeg", description: "Pink Folar Frock" },
+  { src: "striped.jpeg", description: "Striped Frock" },
+  { src: "flowerPrint.jpeg", description: "Flower Print Frock" },
 ];
 
 
