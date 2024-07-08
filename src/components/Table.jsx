@@ -272,7 +272,7 @@ export default function Table() {
         <h1>Rules creation</h1>
       </div>
       <button className="green-button">Publish Feed</button>
-      {/* Your additional content or components can go here */}
+      
     </div>
 
         <div className="table-container">
