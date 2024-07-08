@@ -1,0 +1,43 @@
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 5vw;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 20px;
+}
+
+.icon-wrapper {
+  margin-top: 30px;
+  margin-bottom: 20px;
+  /* margin-left: 20px; */
+  margin-right: 5px;
+}
+
+.sidebar-icon {
+  color: white;
+  font-size: 24px;
+  cursor: pointer;
+
+}
+
+.sidebar-icon:hover {
+  color: #ddd;
+}
+.icon-wrapper svg {
+  fill: white; /* Adjust the color of the SVG as needed */
+  cursor: pointer;
+}
+
+.icon-wrapper svg:hover {
+  fill: #ddd; /* Adjust the hover color of the SVG as needed */
+}
+
+logo-img{
+  width: 100%;
+  height: 100%;
+}
