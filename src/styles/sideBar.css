@@ -29,12 +29,12 @@
   color: #ddd;
 }
 .icon-wrapper svg {
-  fill: white; /* Adjust the color of the SVG as needed */
+  fill: white;
   cursor: pointer;
 }
 
 .icon-wrapper svg:hover {
-  fill: #ddd; /* Adjust the hover color of the SVG as needed */
+  fill: #ddd;
 }
 
 logo-img{
